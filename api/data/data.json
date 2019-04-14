@@ -1,0 +1,69 @@
+    [
+        {
+            "nit": "9000000001",
+            "nombre": "Hotel Ibiza",
+            "direccion": "Carrera 100 # 40 - 50",
+            "telefono": 4445555,
+            "descripcion": "Nos caracterizamos por ser un hotel de alta competitividad en precios y servicio. No te quedes con las gaas de visitarnos.",
+            "imagen": "ibizaHotel.png",
+            "categoria": "alta",
+            "ciudad": "Medellin",
+            "precioMasBajo": "256000"
+        },
+        {
+            "nit": "9000000002",
+            "nombre": "Hotel Caribe",
+            "direccion": "Carrera 100 # 40 - 60",
+            "telefono": 2222526,
+            "descripcion": "Nos caracterizamos por ser un hotel de buena calidad en precios y servicio. No te quedes con las gaas de visitarnos.",
+            "imagen": "caribeHotel.png",
+            "categoria": "media",
+            "ciudad": "Cartagena",
+            "precioMasBajo": "160000"
+        },
+        {
+            "nit": "9000000003",
+            "nombre": "Hotel Villavicencio",
+            "direccion": "Carrera 100 # 40 - 70",
+            "telefono": 3365897,
+            "descripcion": "El hotel es unico en precios y servicio, no te  quedes con las ganas ven y disfrutanos.",
+            "imagen": "villaoHotel.png",
+            "categoria": "alta",
+            "ciudad": "Villavicencio",
+            "precioMasBajo": "89000"
+        },
+        {
+            "nit": "9000000004",
+            "nombre": "Hotel Capital",
+            "direccion": "Carrera 100 # 40 - 80",
+            "telefono": 4468897,
+            "descripcion": "Buena Calidad y servicio",
+            "imagen": "capitalHotel.png",
+            "categoria": "media",
+            "ciudad": "Bogota",
+            "precioMasBajo": "200000"
+        },
+        {
+            "nit": "9000000005",
+            "nombre": "Hotel Dann Carlton",
+            "direccion": "Carrera 100 # 40 - 90",
+            "telefono": 5558797,
+            "descripcion": "Ubicado en gran zona de la ciudad, no te quedes con las ganas de venir y conocer nuestros servicios",
+            "imagen": "danncarltonHotel.png",
+            "categoria": "media",
+            "ciudad": "Medellin",
+            "precioMasBajo": "350000"
+
+        },
+        {
+            "nit": "9000000006",
+            "nombre": "Hotel Tripp",
+            "direccion": "Carrera 50 # 70 - 98",
+            "telefono": 4445887,
+            "descripcion": "Ubicado al lado del estadio atanasio girardot de la ciudad, gran zona comercial y central",
+            "imagen": "hotelTrip.png",
+            "categoria": "alta",
+            "ciudad": "Medellin",
+            "precioMasBajo": "180000"
+        }
+    ]
